@@ -1,3 +1,4 @@
 madawaska|https://www.mediamaine.org/Madawaska/fourseasonstrail/WebCam/camera1.jpg
 lutsen|https://lutsen.roundshot.com/cams/823
 blueearth|https://webcams.ventusky.com/data/49/827777249/hour/{YYYYMMDD}_{HH}00.jpg
+eastbethel|https://webcams.ventusky.com/data/93/905680493/hour/{YYYYMMDD}_{HH}00.jpg
