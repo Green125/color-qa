@@ -8,3 +8,13 @@ greatbear_chalet|https://s117.ipcamlive.com/streams/75bnchzfne8hdpi6d/snapshot.j
 saratoga|https://webcams.ventusky.com/data/29/694247629/hour/{YYYYMMDD}_{HH}00.jpg
 ashland|https://webcams.ventusky.com/data/25/913971225/hour/{YYYYMMDD}_{HH}00.jpg
 springriver|https://webcams.ventusky.com/data/63/479982063/hour/{YYYYMMDD}_{HH}00.jpg
+bartlett|https://phenocam.nau.edu/data/latest/bartlett.jpg
+arbutuslake|https://phenocam.nau.edu/data/latest/arbutuslake.jpg
+blackrockforest|https://phenocam.nau.edu/data/latest/blackrockforest.jpg
+bbc1|https://phenocam.nau.edu/data/latest/bbc1.jpg
+dollysods|https://phenocam.nau.edu/data/latest/dollysods.jpg
+fernow|https://phenocam.nau.edu/data/latest/fernow.jpg
+coweeta|https://phenocam.nau.edu/data/latest/coweeta.jpg
+greenridge1|https://phenocam.nau.edu/data/latest/greenridge1.jpg
+cedarcreek|https://phenocam.nau.edu/data/latest/cedarcreek.jpg
+downerwoods|https://phenocam.nau.edu/data/latest/downerwoods.jpg
