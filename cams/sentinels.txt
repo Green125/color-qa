@@ -5,3 +5,6 @@ eastbethel|https://webcams.ventusky.com/data/93/905680493/hour/{YYYYMMDD}_{HH}00
 newhampton|https://webcams.ventusky.com/data/18/256524818/hour/{YYYYMMDD}_{HH}00.jpg
 greatbear|https://s117.ipcamlive.com/streams/750rbknutw6fipumc/snapshot.jpg
 greatbear_chalet|https://s117.ipcamlive.com/streams/75bnchzfne8hdpi6d/snapshot.jpg
+saratoga|https://webcams.ventusky.com/data/29/694247629/hour/{YYYYMMDD}_{HH}00.jpg
+ashland|https://webcams.ventusky.com/data/25/913971225/hour/{YYYYMMDD}_{HH}00.jpg
+springriver|https://webcams.ventusky.com/data/63/479982063/hour/{YYYYMMDD}_{HH}00.jpg
