@@ -18,3 +18,7 @@ coweeta|https://phenocam.nau.edu/data/latest/coweeta.jpg
 greenridge1|https://phenocam.nau.edu/data/latest/greenridge1.jpg
 cedarcreek|https://phenocam.nau.edu/data/latest/cedarcreek.jpg
 downerwoods|https://phenocam.nau.edu/data/latest/downerwoods.jpg
+proctor2|https://phenocam.nau.edu/data/latest/proctor2.jpg
+proctortower|https://phenocam.nau.edu/data/latest/proctortower.jpg
+wvuarboretum|https://phenocam.nau.edu/data/latest/wvuarboretum.jpg
+blackrockforestcenter|https://phenocam.nau.edu/data/latest/blackrockforestcenter.jpg
