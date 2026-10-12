@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 11
+Oct 12
 Sept
 01
 Sept
@@ -247,9 +247,9 @@ past peak	10/07/2026
 
 	George H. Crosby Manitou State Park
 Gallery | Park page	
-75-100%	
-50-75%	
-50-75%	10/05/2026
+past peak	
+past peak	
+past peak	10/12/2026
 
 	Glacial Lakes State Park
 Gallery | Park page	
@@ -397,9 +397,9 @@ past peak	10/07/2026
 
 	McCarthy Beach State Park
 Gallery | Park page	
-75-100%	
+past peak	
 50-75%	
-past peak	10/05/2026
+past peak	10/12/2026
 
 	Mille Lacs Kathio State Park
 Gallery | Park page	
@@ -499,9 +499,9 @@ past peak	10/05/2026
 
 	Split Rock Lighthouse State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/07/2026
+past peak	
+past peak	10/12/2026
 
 	St. Croix State Park
 Gallery | Park page	
@@ -517,9 +517,9 @@ Gallery | Park page
 
 	Tettegouche State Park
 Gallery | Park page	
-50-75%	
-75-100%	
-75-100%	10/05/2026
+past peak	
+past peak	
+past peak	10/12/2026
 
 	Whitewater State Park
 Gallery | Park page	
