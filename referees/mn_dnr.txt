@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 9
+Oct 12
 Sept
 01
 Sept
@@ -139,9 +139,9 @@ past peak	10/06/2026
 
 	Beaver Creek Valley State Park
 Gallery | Park page	
-25-50%	
-25-50%	
-50-75%	10/01/2026
+50-75%	
+50-75%	
+50-75%	10/11/2026
 
 	Big Bog State Recreation Area
 Gallery | Park page	
@@ -163,9 +163,9 @@ past peak	10/07/2026
 
 	Buffalo River State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/07/2026
+past peak	
+past peak	10/10/2026
 
 	Camden State Park
 Gallery | Park page	
@@ -199,15 +199,15 @@ past peak	10/08/2026
 
 	Cuyuna Country State Recreation Area
 Gallery | Park page	
-50-75%	
+75-100%	
 past peak	
-past peak	10/07/2026
+past peak	10/10/2026
 
 	Father Hennepin State Park
 Gallery | Park page	
-50-75%	
-50-75%	
-50-75%	10/05/2026
+past peak	
+past peak	
+past peak	10/11/2026
 
 	Flandrau State Park
 Gallery | Park page	
@@ -217,9 +217,9 @@ Gallery | Park page
 
 	Forestville/Mystery Cave State Park
 Gallery | Park page	
-25-50%	
-25-50%	
-25-50%	10/04/2026
+50-75%	
+50-75%	
+50-75%	10/11/2026
 
 	Fort Ridgely State Park
 Gallery | Park page	
@@ -247,9 +247,9 @@ past peak	10/07/2026
 
 	George H. Crosby Manitou State Park
 Gallery | Park page	
-75-100%	
-50-75%	
-50-75%	10/05/2026
+past peak	
+past peak	
+past peak	10/12/2026
 
 	Glacial Lakes State Park
 Gallery | Park page	
@@ -277,9 +277,9 @@ past peak	10/07/2026
 
 	Great River Bluffs State Park
 Gallery | Park page	
-25-50%	
+50-75%	
 75-100%	
-75-100%	09/30/2026
+75-100%	10/11/2026
 
 	Greenleaf Lake State Recreation Area
 Gallery | Park page	
@@ -373,9 +373,9 @@ Gallery | Park page
 
 	Lake Maria State Park
 Gallery | Park page	
+50-75%	
 25-50%	
-25-50%	
-25-50%	10/07/2026
+25-50%	10/11/2026
 
 	Lake Shetek State Park
 Gallery | Park page	
@@ -397,15 +397,15 @@ past peak	10/07/2026
 
 	McCarthy Beach State Park
 Gallery | Park page	
-75-100%	
+past peak	
 50-75%	
-past peak	10/05/2026
+past peak	10/12/2026
 
 	Mille Lacs Kathio State Park
 Gallery | Park page	
-75-100%	
-75-100%	
-past peak	10/09/2026
+past peak	
+past peak	
+past peak	10/10/2026
 
 	Minneopa State Park
 Gallery | Park page	
@@ -499,9 +499,9 @@ past peak	10/05/2026
 
 	Split Rock Lighthouse State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/07/2026
+past peak	
+past peak	10/12/2026
 
 	St. Croix State Park
 Gallery | Park page	
@@ -517,9 +517,9 @@ Gallery | Park page
 
 	Tettegouche State Park
 Gallery | Park page	
-50-75%	
-75-100%	
-75-100%	10/05/2026
+past peak	
+past peak	
+past peak	10/12/2026
 
 	Whitewater State Park
 Gallery | Park page	
