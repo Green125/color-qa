@@ -21,3 +21,9 @@ moville-ia|https://webcams.ventusky.com/data/47/172788047/hour/{YYYYMMDD}_{HH}00
 iowafalls-ia|https://webcams.ventusky.com/data/90/279014090/hour/{YYYYMMDD}_{HH}00.jpg
 mingo-ia|https://webcams.ventusky.com/data/00/867110800/hour/{YYYYMMDD}_{HH}00.jpg
 osceola-ia|https://webcams.ventusky.com/data/54/428710754/hour/{YYYYMMDD}_{HH}00.jpg
+kent-ct|https://instacam.earthnetworks.com/instacamimg/MRVLD/MRVLD_l.jpg
+litchfield-ct|https://instacam.earthnetworks.com/instacamimg/LITCH/LITCH_l.jpg
+winsted-ct|https://instacam.earthnetworks.com/instacamimg/WNSTD/WNSTD_l.jpg
+bethlehem-ct|https://instacam.earthnetworks.com/instacamimg/BTHHM/BTHHM_l.jpg
+simsbury-ct|https://instacam.earthnetworks.com/instacamimg/SMSBR/SMSBR_l.jpg
+powderridge-ct|https://instacam.earthnetworks.com/instacamimg/MDDPR/MDDPR_l.jpg
