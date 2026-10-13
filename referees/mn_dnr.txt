@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 12
+Oct 13
 Sept
 01
 Sept
@@ -181,9 +181,9 @@ past peak	10/06/2026
 
 	Cascade River State Park
 Gallery | Park page	
-75-100%	
-75-100%	
-75-100%	10/06/2026
+past peak	
+past peak	
+past peak	10/13/2026
 
 	Charles A. Lindbergh State Park
 Gallery | Park page	
@@ -199,9 +199,9 @@ past peak	10/08/2026
 
 	Cuyuna Country State Recreation Area
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/10/2026
+past peak	
+past peak	10/13/2026
 
 	Father Hennepin State Park
 Gallery | Park page	
@@ -225,7 +225,7 @@ Gallery | Park page
 Gallery | Park page	
 50-75%	
 75-100%	
-past peak	10/07/2026
+past peak	10/13/2026
 
 	Fort Snelling State Park
 Gallery | Park page	
@@ -325,15 +325,15 @@ past peak	10/06/2026
 
 	Judge C.R. Magney State Park
 Gallery | Park page	
-75-100%	
-75-100%	
-75-100%	10/06/2026
+past peak	
+past peak	
+past peak	10/13/2026
 
 	Kilen Woods State Park
 Gallery | Park page	
 50-75%	
 75-100%	
-75-100%	10/05/2026
+50-75%	10/13/2026
 
 	La Salle Lake State Recreation Area
 Gallery | Park page	
@@ -343,9 +343,9 @@ past peak	10/07/2026
 
 	Lac qui Parle State Park
 Gallery | Park page	
-25-50%	
+past peak	
 75-100%	
-past peak	10/07/2026
+past peak	10/13/2026
 
 	Lake Bemidji State Park
 Gallery | Park page	
@@ -397,7 +397,7 @@ past peak	10/07/2026
 
 	McCarthy Beach State Park
 Gallery | Park page	
-past peak	
+75-100%	
 50-75%	
 past peak	10/12/2026
 
@@ -429,7 +429,7 @@ past peak	10/07/2026
 Gallery | Park page	
 75-100%	
 75-100%	
-75-100%	10/07/2026
+past peak	10/13/2026
 
 	Myre-Big Island State Park
 Gallery | Park page	
@@ -439,9 +439,9 @@ past peak	10/07/2026
 
 	Nerstrand Big Woods State Park
 Gallery | Park page	
-50-75%	
+75-100%	
 past peak	
-past peak	10/06/2026
+past peak	10/13/2026
 
 	Old Mill State Park
 Gallery | Park page	
