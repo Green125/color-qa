@@ -27,3 +27,4 @@ winsted-ct|https://instacam.earthnetworks.com/instacamimg/WNSTD/WNSTD_l.jpg
 bethlehem-ct|https://instacam.earthnetworks.com/instacamimg/BTHHM/BTHHM_l.jpg
 simsbury-ct|https://instacam.earthnetworks.com/instacamimg/SMSBR/SMSBR_l.jpg
 powderridge-ct|https://instacam.earthnetworks.com/instacamimg/MDDPR/MDDPR_l.jpg
+danbury-ct|https://imgproxy.windy.com/_/full/plain/current/1793914887/original.jpg?v=2
