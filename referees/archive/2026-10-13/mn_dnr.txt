@@ -295,9 +295,9 @@ past peak	10/07/2026
 
 	Interstate State Park
 Gallery | Park page	
-50-75%	
-50-75%	
-past peak	10/09/2026
+75-100%	
+past peak	
+past peak	10/13/2026
 
 	Iron Range Off-Highway Vehicle State Recreation Area
 Gallery | Park page	
@@ -379,15 +379,15 @@ Gallery | Park page
 
 	Lake Shetek State Park
 Gallery | Park page	
-25-50%	
+75-100%	
 50-75%	
-75-100%	10/07/2026
+past peak	10/13/2026
 
 	Lake Vermilion-Soudan Underground Mine State Park
 Gallery | Park page	
-75-100%	
-75-100%	
-75-100%	10/07/2026
+past peak	
+past peak	
+past peak	10/07/2026
 
 	Maplewood State Park
 Gallery | Park page	
