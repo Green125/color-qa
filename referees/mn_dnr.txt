@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 14
+Oct 15
 Sept
 01
 Sept
@@ -217,9 +217,9 @@ past peak	10/14/2026
 
 	Forestville/Mystery Cave State Park
 Gallery | Park page	
-50-75%	
-50-75%	
-50-75%	10/11/2026
+75-100%	
+75-100%	
+75-100%	10/15/2026
 
 	Fort Ridgely State Park
 Gallery | Park page	
@@ -231,7 +231,7 @@ past peak	10/13/2026
 Gallery | Park page	
 50-75%	
 past peak	
-past peak	10/14/2026
+past peak	10/15/2026
 
 	Franz Jevne State Park
 Gallery | Park page	
@@ -253,9 +253,9 @@ past peak	10/12/2026
 
 	Glacial Lakes State Park
 Gallery | Park page	
-50-75%	
 75-100%	
-past peak	10/07/2026
+75-100%	
+past peak	10/15/2026
 
 	Glendalough State Park
 Gallery | Park page	
@@ -295,15 +295,15 @@ past peak	10/14/2026
 
 	Interstate State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/13/2026
+past peak	
+past peak	10/15/2026
 
 	Iron Range Off-Highway Vehicle State Recreation Area
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/07/2026
+past peak	
+past peak	10/15/2026
 
 	Itasca State Park
 Gallery | Park page	
@@ -362,14 +362,14 @@ past peak	10/14/2026
 	Lake Carlos State Park
 Gallery | Park page	
 75-100%	
-75-100%	
-past peak	10/07/2026
+past peak	
+past peak	10/14/2026
 
 	Lake Louise State Park
 Gallery | Park page	
-25-50%	
-25-50%	
-25-50%	10/05/2026
+50-75%	
+75-100%	
+past peak	10/14/2026
 
 	Lake Maria State Park
 Gallery | Park page	
@@ -415,9 +415,9 @@ Gallery | Park page
 
 	Minnesota Valley State Recreation Area
 Gallery | Park page	
-10-25%	
-10-25%	
-10-25%	10/07/2026
+25-50%	
+25-50%	
+25-50%	10/15/2026
 
 	Monson Lake State Park
 Gallery | Park page	
@@ -428,8 +428,8 @@ past peak	10/14/2026
 	Moose Lake State Park
 Gallery | Park page	
 past peak	
-75-100%	
-past peak	10/14/2026
+past peak	
+past peak	10/15/2026
 
 	Myre-Big Island State Park
 Gallery | Park page	
@@ -501,7 +501,7 @@ past peak	10/14/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/12/2026
+past peak	10/14/2026
 
 	St. Croix State Park
 Gallery | Park page	
