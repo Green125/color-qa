@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 15
+Oct 16
 Sept
 01
 Sept
@@ -313,9 +313,9 @@ past peak	10/14/2026
 
 	Jay Cooke State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/14/2026
+past peak	
+past peak	10/16/2026
 
 	John A. Latsch State Park
 Gallery | Park page	
@@ -391,15 +391,15 @@ past peak	10/14/2026
 
 	Maplewood State Park
 Gallery | Park page	
-75-100%	
-75-100%	
-past peak	10/14/2026
+past peak	
+past peak	
+past peak	10/16/2026
 
 	McCarthy Beach State Park
 Gallery | Park page	
-75-100%	
+past peak	
 50-75%	
-past peak	10/12/2026
+past peak	10/16/2026
 
 	Mille Lacs Kathio State Park
 Gallery | Park page	
@@ -463,9 +463,9 @@ past peak	10/05/2026
 
 	Sakatah Lake State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/14/2026
+past peak	
+past peak	10/16/2026
 
 	Savanna Portage State Park
 Gallery | Park page	
@@ -493,9 +493,9 @@ past peak	10/14/2026
 
 	Split Rock Creek State Park
 Gallery | Park page	
-50-75%	
 75-100%	
-past peak	10/14/2026
+past peak	
+past peak	10/16/2026
 
 	Split Rock Lighthouse State Park
 Gallery | Park page	
@@ -535,15 +535,15 @@ past peak	10/14/2026
 
 	William O'Brien State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/14/2026
+past peak	
+past peak	10/16/2026
 
 	Zippel Bay State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/14/2026
+past peak	
+past peak	10/16/2026
 
  
 Questions?
