@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 16
+Oct 17
 Sept
 01
 Sept
@@ -121,9 +121,9 @@ Updated
 
 	Afton State Park
 Gallery | Park page	
-50-75%	
+75-100%	
 past peak	
-past peak	10/14/2026
+past peak	10/17/2026
 
 	Banning State Park
 Gallery | Park page	
@@ -253,9 +253,9 @@ past peak	10/12/2026
 
 	Glacial Lakes State Park
 Gallery | Park page	
-75-100%	
-75-100%	
-past peak	10/15/2026
+past peak	
+past peak	
+past peak	10/17/2026
 
 	Glendalough State Park
 Gallery | Park page	
@@ -345,7 +345,7 @@ past peak	10/14/2026
 Gallery | Park page	
 past peak	
 75-100%	
-past peak	10/13/2026
+past peak	10/17/2026
 
 	Lake Bemidji State Park
 Gallery | Park page	
@@ -439,9 +439,9 @@ past peak	10/14/2026
 
 	Nerstrand Big Woods State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/13/2026
+past peak	
+past peak	10/16/2026
 
 	Old Mill State Park
 Gallery | Park page	
@@ -493,9 +493,9 @@ past peak	10/14/2026
 
 	Split Rock Creek State Park
 Gallery | Park page	
-75-100%	
+50-75%	
 past peak	
-past peak	10/16/2026
+past peak	10/17/2026
 
 	Split Rock Lighthouse State Park
 Gallery | Park page	
