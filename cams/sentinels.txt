@@ -34,3 +34,8 @@ mitchell-se-nc|https://nchighpeaks.org/cam8/up/image.jpg
 mitchell-summit-nc|https://nchighpeaks.org/cam11/up/image.jpg
 naugatuck-ct|https://imgproxy.windy.com/_/full/plain/current/1793914834/original.jpg\?v\=2
 southington-ct|https://imgproxy.windy.com/_/full/plain/current/1793914791/original.jpg\?v\=2
+
+mitchell-se-nc|https://nchighpeaks.org/cam8/up/image.jpg
+mitchell-summit-nc|https://nchighpeaks.org/cam11/up/image.jpg
+naugatuck-ct|https://imgproxy.windy.com/_/full/plain/current/1793914834/original.jpg\?v\=2
+southington-ct|https://imgproxy.windy.com/_/full/plain/current/1793914791/original.jpg\?v\=2
