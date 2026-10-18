@@ -41,12 +41,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/15/26 1:08 PM
 
-65% Color
+80% Color
 Appleton (Fox Cities, Greater Appleton)
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/13/26 6:07 PM
+Updated: 10/18/26 11:35 AM
 
 100% Color
 Ashland
@@ -627,7 +627,7 @@ Polk County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/17/26 8:18 AM
+Updated: 10/18/26 9:19 AM
 
 35% Color
 Port Washington
@@ -671,12 +671,12 @@ Peak Color Forecast: 1st Week of October
 
 Updated: 10/16/26 3:20 PM
 
-75% Color
+95% Color
 Richland County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/16/26 2:26 PM
+Updated: 10/18/26 9:10 AM
 
 35% Color
 Rome
@@ -727,12 +727,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/16/26 4:53 PM
 
-65% Color
+80% Color
 Superior
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/13/26 3:24 PM
+Updated: 10/18/26 1:48 PM
 
 Fading Peak
 Three Lakes Area
