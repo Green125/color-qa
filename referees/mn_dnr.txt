@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 18
+Oct 19
 Sept
 01
 Sept
@@ -255,13 +255,13 @@ past peak	10/12/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/17/2026
+past peak	10/19/2026
 
 	Glendalough State Park
 Gallery | Park page	
-75-100%	
-75-100%	
-past peak	10/14/2026
+past peak	
+past peak	
+past peak	10/19/2026
 
 	Gooseberry Falls State Park
 Gallery | Park page	
@@ -307,9 +307,9 @@ past peak	10/15/2026
 
 	Itasca State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/14/2026
+past peak	
+past peak	10/19/2026
 
 	Jay Cooke State Park
 Gallery | Park page	
@@ -337,9 +337,9 @@ Gallery | Park page
 
 	La Salle Lake State Recreation Area
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/14/2026
+past peak	
+past peak	10/19/2026
 
 	Lac qui Parle State Park
 Gallery | Park page	
@@ -361,9 +361,9 @@ past peak	10/14/2026
 
 	Lake Carlos State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/14/2026
+past peak	
+past peak	10/19/2026
 
 	Lake Louise State Park
 Gallery | Park page	
@@ -375,7 +375,7 @@ past peak	10/14/2026
 Gallery | Park page	
 50-75%	
 50-75%	
-50-75%	10/14/2026
+50-75%	10/19/2026
 
 	Lake Shetek State Park
 Gallery | Park page	

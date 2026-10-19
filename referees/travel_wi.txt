@@ -55,12 +55,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/14/26 9:35 AM
 
-75% Color
+80% Color
 Baraboo Area
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/15/26 9:09 AM
+Updated: 10/19/26 9:05 AM
 
 Fading Peak
 Barron County
@@ -74,7 +74,7 @@ Bayfield
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/16/26 1:27 PM
+Updated: 10/19/26 12:45 PM
 
 65% Color
 Beloit
@@ -83,12 +83,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/14/26 11:37 AM
 
-Fading Peak
+Until Next Year
 Birchwood
 
 Peak Color Forecast: 1st Week of October
 
-Updated: 10/16/26 5:02 PM
+Updated: 10/18/26 8:16 PM
 
 65% Color
 Black River Falls
@@ -118,12 +118,12 @@ Peak Color Forecast: 1st Week of October
 
 Updated: 10/16/26 4:19 PM
 
-75% Color
+85% Color
 Burnett County
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/16/26 8:34 AM
+Updated: 10/19/26 10:51 AM
 
 Fading Peak
 Cable Area
@@ -132,12 +132,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/14/26 1:58 PM
 
-80% Color
+90% Color
 Calumet County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/16/26 11:44 AM
+Updated: 10/19/26 8:57 AM
 
 50% Color
 Cassville
@@ -158,7 +158,7 @@ Clark County
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/13/26 9:33 AM
+Updated: 10/19/26 12:01 PM
 
 Fading Peak
 Crandon
@@ -202,33 +202,33 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/14/26 1:04 PM
 
-70% Color
+100% Color
 Eau Claire
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/12/26 11:26 AM
+Updated: 10/19/26 9:12 AM
 
-60% Color
+70% Color
 Elkhart Lake
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/15/26 12:12 PM
+Updated: 10/19/26 9:36 AM
 
-90% Color
+Fading Peak
 Florence County
 
-Peak Color Forecast: 1st Week of October
+Peak Color Forecast: 2nd Week of October
 
-Updated: 10/7/26 2:44 PM
+Updated: 10/19/26 12:18 PM
 
-65% Color
+75% Color
 Fond du Lac
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/14/26 12:02 PM
+Updated: 10/19/26 9:40 AM
 
 70% Color
 Fort Atkinson
@@ -279,12 +279,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/14/26 10:22 AM
 
-Fading Peak
+Until Next Year
 Hayward
 
 Peak Color Forecast: 1st Week of October
 
-Updated: 10/14/26 11:23 AM
+Updated: 10/19/26 1:01 PM
 
 50% Color
 Hudson
@@ -319,14 +319,14 @@ Jefferson
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/15/26 1:43 PM
+Updated: 10/19/26 12:04 PM
 
-25% Color
+70% Color
 Johnson Creek
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/6/26 1:40 PM
+Updated: 10/19/26 8:19 AM
 
 50% Color
 Juneau County
@@ -349,19 +349,19 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/16/26 2:21 PM
 
-40% Color
+55% Color
 La Crosse
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/12/26 8:42 AM
+Updated: 10/19/26 12:37 PM
 
 100% Color
 La Pointe, Madeline Island
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/16/26 1:27 PM
+Updated: 10/19/26 12:45 PM
 
 95% Color
 Ladysmith
@@ -391,12 +391,12 @@ Peak Color Forecast: 1st Week of October
 
 Updated: 10/14/26 7:59 AM
 
-Fading Peak
+Until Next Year
 Langlade County
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/14/26 11:20 AM
+Updated: 10/19/26 12:19 PM
 
 60% Color
 Madison
@@ -510,12 +510,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/13/26 11:14 AM
 
-Fading Peak
+Until Next Year
 Minong
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/12/26 8:43 AM
+Updated: 10/19/26 10:32 AM
 
 80% Color
 Mont du Lac
@@ -573,12 +573,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/16/26 10:26 AM
 
-60% Color
+65% Color
 Pepin County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/15/26 3:12 PM
+Updated: 10/19/26 1:13 PM
 
 Fading Peak
 Phelps Area
@@ -622,12 +622,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/15/26 10:45 AM
 
-100% Color
+Fading Peak
 Polk County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/18/26 9:19 AM
+Updated: 10/19/26 9:21 AM
 
 35% Color
 Port Washington
@@ -706,12 +706,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/15/26 8:16 AM
 
-Fading Peak
+Until Next Year
 Spooner & Shell Lake
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/12/26 8:44 AM
+Updated: 10/19/26 10:32 AM
 
 Fading Peak
 St. Germain
@@ -804,12 +804,12 @@ Peak Color Forecast: 5th Week of October
 
 Updated: 10/16/26 2:23 PM
 
-60% Color
+75% Color
 Wisconsin Rapids Area
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/14/26 11:13 AM
+Updated: 10/19/26 11:14 AM
 
 0%
 25%
