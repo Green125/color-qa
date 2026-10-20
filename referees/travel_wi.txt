@@ -55,12 +55,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/14/26 9:35 AM
 
-80% Color
+85% Color
 Baraboo Area
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/19/26 9:05 AM
+Updated: 10/20/26 9:36 AM
 
 Fading Peak
 Barron County
@@ -97,12 +97,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/16/26 2:28 PM
 
-95% Color
+Fading Peak
 Blue Hills - Weyerhaeuser & Bruce Area
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/14/26 10:21 AM
+Updated: 10/20/26 11:17 AM
 
 25% Color
 Blue Mounds
@@ -125,12 +125,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/19/26 10:51 AM
 
-Fading Peak
+Until Next Year
 Cable Area
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/14/26 1:58 PM
+Updated: 10/20/26 3:04 PM
 
 90% Color
 Calumet County
@@ -167,12 +167,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/16/26 9:12 AM
 
-60% Color
+70% Color
 Delafield
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/13/26 1:03 PM
+Updated: 10/20/26 9:00 AM
 
 50% Color
 Dodge County
@@ -209,19 +209,19 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/19/26 9:12 AM
 
-70% Color
+80% Color
 Elkhart Lake
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/19/26 9:36 AM
+Updated: 10/20/26 8:29 AM
 
 Fading Peak
 Florence County
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/19/26 12:18 PM
+Updated: 10/20/26 9:17 AM
 
 75% Color
 Fond du Lac
@@ -272,12 +272,12 @@ Peak Color Forecast: 5th Week of October
 
 Updated: 10/14/26 8:51 AM
 
-100% Color
+Fading Peak
 Hawkins
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/14/26 10:22 AM
+Updated: 10/20/26 11:17 AM
 
 Until Next Year
 Hayward
@@ -293,12 +293,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/14/26 11:27 AM
 
-100% Color
+Fading Peak
 Hurley
 
 Peak Color Forecast: 1st Week of October
 
-Updated: 10/7/26 12:35 PM
+Updated: 10/20/26 9:47 AM
 
 100% Color
 Iron River
@@ -326,7 +326,7 @@ Johnson Creek
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/19/26 8:19 AM
+Updated: 10/20/26 12:59 PM
 
 50% Color
 Juneau County
@@ -363,12 +363,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/19/26 12:45 PM
 
-95% Color
+Fading Peak
 Ladysmith
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/14/26 10:22 AM
+Updated: 10/20/26 11:17 AM
 
 55% Color
 Lafayette County
@@ -377,12 +377,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/15/26 2:23 PM
 
-60% Color
+65% Color
 Lake Geneva
 
 Peak Color Forecast: 5th Week of October
 
-Updated: 10/14/26 6:23 PM
+Updated: 10/20/26 8:07 AM
 
 Until Next Year
 Land O' Lakes
@@ -412,12 +412,12 @@ Peak Color Forecast: 1st Week of October
 
 Updated: 10/9/26 1:01 PM
 
-90% Color
+100% Color
 Manitowoc
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/16/26 12:12 PM
+Updated: 10/20/26 2:59 PM
 
 Fading Peak
 Marinette County - Central
@@ -447,12 +447,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/9/26 2:25 PM
 
-50% Color
+Fading Peak
 Marshfield
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/5/26 11:36 AM
+Updated: 10/20/26 1:15 PM
 
 100% Color
 Medford
@@ -627,7 +627,7 @@ Polk County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/19/26 9:21 AM
+Updated: 10/20/26 6:19 AM
 
 35% Color
 Port Washington
@@ -657,12 +657,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/14/26 3:31 PM
 
-40% Color
+70% Color
 Retzer Nature Center
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/13/26 3:09 PM
+Updated: 10/20/26 12:22 PM
 
 Fading Peak
 Rhinelander Area
@@ -739,7 +739,7 @@ Three Lakes Area
 
 Peak Color Forecast: 1st Week of October
 
-Updated: 10/7/26 3:28 PM
+Updated: 10/20/26 12:43 PM
 
 60% Color
 Tomah
@@ -776,12 +776,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/15/26 12:14 PM
 
-75% Color
+100% Color
 Waupaca
 
-Peak Color Forecast: 2nd Week of October
+Peak Color Forecast: 4th Week of October
 
-Updated: 10/14/26 11:54 AM
+Updated: 10/20/26 11:57 AM
 
 100% Color
 Wausau
