@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 20
+Oct 21
 Sept
 01
 Sept
@@ -139,15 +139,15 @@ past peak	10/14/2026
 
 	Beaver Creek Valley State Park
 Gallery | Park page	
-25-50%	
+75-100%	
 past peak	
-past peak	10/14/2026
+past peak	10/21/2026
 
 	Big Bog State Recreation Area
 Gallery | Park page	
 75-100%	
 past peak	
-past peak	10/14/2026
+past peak	10/21/2026
 
 	Big Stone Lake State Park
 Gallery | Park page	
@@ -157,9 +157,9 @@ past peak	10/14/2026
 
 	Blue Mounds State Park
 Gallery | Park page	
-50-75%	
 75-100%	
-past peak	10/14/2026
+past peak	
+past peak	10/21/2026
 
 	Buffalo River State Park
 Gallery | Park page	
@@ -169,15 +169,15 @@ past peak	10/14/2026
 
 	Camden State Park
 Gallery | Park page	
-50-75%	
 past peak	
-past peak	10/14/2026
+past peak	
+past peak	10/21/2026
 
 	Carley State Park
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/14/2026
+past peak	10/21/2026
 
 	Cascade River State Park
 Gallery | Park page	
@@ -187,15 +187,15 @@ past peak	10/13/2026
 
 	Charles A. Lindbergh State Park
 Gallery | Park page	
-50-75%	
-75-100%	
-past peak	10/14/2026
+past peak	
+past peak	
+past peak	10/21/2026
 
 	Crow Wing State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/14/2026
+past peak	
+past peak	10/21/2026
 
 	Cuyuna Country State Recreation Area
 Gallery | Park page	
@@ -213,13 +213,13 @@ past peak	10/11/2026
 Gallery | Park page	
 50-75%	
 75-100%	
-past peak	10/14/2026
+past peak	10/21/2026
 
 	Forestville/Mystery Cave State Park
 Gallery | Park page	
-75-100%	
-75-100%	
-75-100%	10/15/2026
+past peak	
+past peak	
+past peak	10/21/2026
 
 	Fort Ridgely State Park
 Gallery | Park page	
@@ -267,7 +267,7 @@ past peak	10/19/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/14/2026
+past peak	10/21/2026
 
 	Grand Portage State Park
 Gallery | Park page	
@@ -277,15 +277,15 @@ past peak	10/14/2026
 
 	Great River Bluffs State Park
 Gallery | Park page	
-50-75%	
+75-100%	
 past peak	
-past peak	10/14/2026
+past peak	10/21/2026
 
 	Greenleaf Lake State Recreation Area
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/14/2026
+past peak	
+past peak	10/21/2026
 
 	Hayes Lake State Park
 Gallery | Park page	
@@ -297,7 +297,7 @@ past peak	10/20/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/15/2026
+past peak	10/21/2026
 
 	Iron Range Off-Highway Vehicle State Recreation Area
 Gallery | Park page	
@@ -309,7 +309,7 @@ past peak	10/15/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/19/2026
+past peak	10/21/2026
 
 	Jay Cooke State Park
 Gallery | Park page	
@@ -320,8 +320,8 @@ past peak	10/16/2026
 	John A. Latsch State Park
 Gallery | Park page	
 75-100%	
-past peak	
-past peak	10/14/2026
+75-100%	
+past peak	10/21/2026
 
 	Judge C.R. Magney State Park
 Gallery | Park page	
@@ -339,7 +339,7 @@ Gallery | Park page
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/19/2026
+past peak	10/21/2026
 
 	Lac qui Parle State Park
 Gallery | Park page	
@@ -351,7 +351,7 @@ past peak	10/20/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/14/2026
+past peak	10/21/2026
 
 	Lake Bronson State Park
 Gallery | Park page	
@@ -373,9 +373,9 @@ past peak	10/14/2026
 
 	Lake Maria State Park
 Gallery | Park page	
-50-75%	
-50-75%	
-50-75%	10/19/2026
+75-100%	
+75-100%	
+75-100%	10/21/2026
 
 	Lake Shetek State Park
 Gallery | Park page	
@@ -387,7 +387,7 @@ past peak	10/20/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/14/2026
+past peak	10/21/2026
 
 	Maplewood State Park
 Gallery | Park page	
@@ -409,15 +409,15 @@ past peak	10/14/2026
 
 	Minneopa State Park
 Gallery | Park page	
-50-75%	
-50-75%	
-50-75%	10/14/2026
+75-100%	
+75-100%	
+75-100%	10/21/2026
 
 	Minnesota Valley State Recreation Area
 Gallery | Park page	
 25-50%	
 25-50%	
-25-50%	10/15/2026
+25-50%	10/21/2026
 
 	Monson Lake State Park
 Gallery | Park page	
@@ -433,9 +433,9 @@ past peak	10/20/2026
 
 	Myre-Big Island State Park
 Gallery | Park page	
-50-75%	
+75-100%	
 past peak	
-past peak	10/14/2026
+past peak	10/21/2026
 
 	Nerstrand Big Woods State Park
 Gallery | Park page	
@@ -453,7 +453,7 @@ past peak	10/20/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/14/2026
+past peak	10/21/2026
 
 	Rice Lake State Park
 Gallery | Park page	
@@ -469,9 +469,9 @@ past peak	10/16/2026
 
 	Savanna Portage State Park
 Gallery | Park page	
-past peak	
-past peak	
-past peak	10/14/2026
+75-100%	
+75-100%	
+past peak	10/21/2026
 
 	Scenic State Park
 Gallery | Park page	
@@ -481,9 +481,9 @@ past peak	10/18/2026
 
 	Schoolcraft State Park
 Gallery | Park page	
-75-100%	
-75-100%	
-75-100%	10/14/2026
+past peak	
+past peak	
+past peak	10/21/2026
 
 	Sibley State Park
 Gallery | Park page	
@@ -493,9 +493,9 @@ past peak	10/14/2026
 
 	Split Rock Creek State Park
 Gallery | Park page	
-50-75%	
+75-100%	
 past peak	
-past peak	10/17/2026
+past peak	10/21/2026
 
 	Split Rock Lighthouse State Park
 Gallery | Park page	
@@ -524,8 +524,8 @@ past peak	10/12/2026
 	Whitewater State Park
 Gallery | Park page	
 past peak	
-75-100%	
-past peak	10/14/2026
+past peak	
+past peak	10/21/2026
 
 	Wild River State Park
 Gallery | Park page	
