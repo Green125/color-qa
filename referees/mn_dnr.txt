@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 21
+Oct 22
 Sept
 01
 Sept
@@ -121,9 +121,9 @@ Updated
 
 	Afton State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/17/2026
+past peak	
+past peak	10/22/2026
 
 	Banning State Park
 Gallery | Park page	
@@ -331,9 +331,9 @@ past peak	10/13/2026
 
 	Kilen Woods State Park
 Gallery | Park page	
-50-75%	
 75-100%	
-50-75%	10/13/2026
+25-50%	
+25-50%	10/22/2026
 
 	La Salle Lake State Recreation Area
 Gallery | Park page	
@@ -367,9 +367,9 @@ past peak	10/19/2026
 
 	Lake Louise State Park
 Gallery | Park page	
-50-75%	
 75-100%	
-past peak	10/14/2026
+past peak	
+past peak	10/22/2026
 
 	Lake Maria State Park
 Gallery | Park page	
@@ -398,8 +398,8 @@ past peak	10/16/2026
 	McCarthy Beach State Park
 Gallery | Park page	
 past peak	
-50-75%	
-past peak	10/16/2026
+75-100%	
+past peak	10/22/2026
 
 	Mille Lacs Kathio State Park
 Gallery | Park page	
@@ -469,9 +469,9 @@ past peak	10/16/2026
 
 	Savanna Portage State Park
 Gallery | Park page	
-75-100%	
-75-100%	
-past peak	10/21/2026
+past peak	
+past peak	
+past peak	10/22/2026
 
 	Scenic State Park
 Gallery | Park page	
@@ -558,6 +558,8 @@ Follow the color changes.
 
 Sign up for color updates.
 
+Enter mobile phone number
+Enter email address
  By checking this box, you consent to our data privacy policy.
 No Thanks Remind Me Later
 CLOSE
