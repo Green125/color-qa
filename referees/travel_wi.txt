@@ -202,12 +202,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/14/26 1:04 PM
 
-100% Color
+Fading Peak
 Eau Claire
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/19/26 9:12 AM
+Updated: 10/23/26 3:23 PM
 
 80% Color
 Elkhart Lake
@@ -251,12 +251,12 @@ Peak Color Forecast: 5th Week of October
 
 Updated: 10/15/26 11:36 AM
 
-75% Color
+90% Color
 Green Bay
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/21/26 8:29 AM
+Updated: 10/23/26 3:34 PM
 
 80% Color
 Green County
@@ -286,12 +286,12 @@ Peak Color Forecast: 1st Week of October
 
 Updated: 10/19/26 1:01 PM
 
-50% Color
+75% Color
 Hudson
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/14/26 11:27 AM
+Updated: 10/23/26 3:14 PM
 
 Fading Peak
 Hurley
@@ -349,12 +349,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/16/26 2:21 PM
 
-55% Color
+95% Color
 La Crosse
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/19/26 12:37 PM
+Updated: 10/23/26 9:14 AM
 
 100% Color
 La Pointe, Madeline Island
@@ -377,12 +377,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/21/26 9:50 AM
 
-70% Color
+80% Color
 Lake Geneva
 
 Peak Color Forecast: 5th Week of October
 
-Updated: 10/21/26 7:03 AM
+Updated: 10/23/26 9:57 AM
 
 Until Next Year
 Land O' Lakes
@@ -489,19 +489,19 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/21/26 11:50 AM
 
-50% Color
+55% Color
 Milwaukee
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/16/26 3:30 PM
+Updated: 10/23/26 1:57 PM
 
-50% Color
+75% Color
 Mineral Point
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/13/26 9:14 AM
+Updated: 10/23/26 8:53 AM
 
 Fading Peak
 Minocqua
@@ -524,12 +524,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/14/26 11:13 AM
 
-45% Color
+80% Color
 Mukwonago
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/16/26 4:46 PM
+Updated: 10/23/26 2:05 PM
 
 75% Color
 New Richmond
@@ -552,12 +552,12 @@ Peak Color Forecast: 5th Week of October
 
 Updated: 10/22/26 2:00 PM
 
-100% Color
+Fading Peak
 Oconto County
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/13/26 2:03 PM
+Updated: 10/23/26 12:36 PM
 
 85% Color
 Oshkosh
@@ -601,12 +601,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/14/26 3:57 PM
 
-50% Color
+75% Color
 Platteville
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/15/26 2:15 PM
+Updated: 10/23/26 10:15 AM
 
 75% Color
 Pleasant Prairie
@@ -615,26 +615,26 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/21/26 10:44 AM
 
-50% Color
+80% Color
 Plymouth
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/15/26 10:45 AM
+Updated: 10/23/26 10:10 AM
 
 Fading Peak
 Polk County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/22/26 7:17 AM
+Updated: 10/23/26 11:20 AM
 
-35% Color
+65% Color
 Port Washington
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/13/26 2:41 PM
+Updated: 10/23/26 11:19 AM
 
 85% Color
 Portage
@@ -678,12 +678,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/21/26 1:29 PM
 
-35% Color
+90% Color
 Rome
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/9/26 3:42 PM
+Updated: 10/23/26 2:59 PM
 
 Fading Peak
 Rusk County

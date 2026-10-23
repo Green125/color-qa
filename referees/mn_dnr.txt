@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 22
+Oct 23
 Sept
 01
 Sept
@@ -229,9 +229,9 @@ past peak	10/20/2026
 
 	Fort Snelling State Park
 Gallery | Park page	
-50-75%	
+75-100%	
 past peak	
-past peak	10/20/2026
+past peak	10/23/2026
 
 	Franz Jevne State Park
 Gallery | Park page	
@@ -409,9 +409,9 @@ past peak	10/14/2026
 
 	Minneopa State Park
 Gallery | Park page	
+past peak	
 75-100%	
-75-100%	
-75-100%	10/21/2026
+past peak	10/23/2026
 
 	Minnesota Valley State Recreation Area
 Gallery | Park page	
