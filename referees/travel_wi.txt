@@ -41,12 +41,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/20/26 9:10 PM
 
-80% Color
+90% Color
 Appleton (Fox Cities, Greater Appleton)
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/18/26 11:35 AM
+Updated: 10/24/26 10:26 AM
 
 100% Color
 Ashland
@@ -118,12 +118,12 @@ Peak Color Forecast: 1st Week of October
 
 Updated: 10/16/26 4:19 PM
 
-85% Color
+90% Color
 Burnett County
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/19/26 10:51 AM
+Updated: 10/24/26 9:56 AM
 
 Until Next Year
 Cable Area
@@ -237,12 +237,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/21/26 10:31 AM
 
-40% Color
+75% Color
 Fountain City
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/16/26 11:29 AM
+Updated: 10/24/26 2:01 PM
 
 45% Color
 Gays Mills
@@ -517,12 +517,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/19/26 10:32 AM
 
-80% Color
+Fading Peak
 Mont du Lac
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/14/26 11:13 AM
+Updated: 10/24/26 8:30 AM
 
 80% Color
 Mukwonago
@@ -627,7 +627,7 @@ Polk County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/23/26 11:20 AM
+Updated: 10/24/26 11:20 AM
 
 65% Color
 Port Washington

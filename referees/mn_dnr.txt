@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 23
+Oct 24
 Sept
 01
 Sept
