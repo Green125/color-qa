@@ -1,4 +1,4 @@
 reno_i580_mill|https://www.nvroads.com/map/Cctv/7934
 gardnerville_us395|https://www.nvroads.com/map/Cctv/7922
-fallon|https://webcams.ventusky.com/data/02/1793917302/hour/\{YYYYMMDD\}_\{HH\}00.jpg
-mtrose_ski|https://webcams.ventusky.com/data/66/1662185166/hour/\{YYYYMMDD\}_\{HH\}00.jpg
+fallon|https://webcams.ventusky.com/data/02/1793917302/hour/{YYYYMMDD}_{HH}00.jpg
+mtrose_ski|https://webcams.ventusky.com/data/66/1662185166/hour/{YYYYMMDD}_{HH}00.jpg
