@@ -34,3 +34,9 @@ mitchell-se-nc|https://nchighpeaks.org/cam8/up/image.jpg
 mitchell-summit-nc|https://nchighpeaks.org/cam11/up/image.jpg
 naugatuck-ct|https://imgproxy.windy.com/_/full/plain/current/1793914834/original.jpg?v=2
 southington-ct|https://imgproxy.windy.com/_/full/plain/current/1793914791/original.jpg?v=2
+westfield_ma|https://i.ytimg.com/vi/JHEmvHrNfJg/maxresdefault_live.jpg
+westborough_ma|https://i.ytimg.com/vi/v3cuH_7swWQ/maxresdefault_live.jpg
+newburyport_ma|https://i.ytimg.com/vi/VsuSbXPN93o/maxresdefault_live.jpg
+annisquam_ma|https://i.ytimg.com/vi/_j1qgdMnifk/maxresdefault_live.jpg
+marthasvineyard_ma|https://i.ytimg.com/vi/a_WjWhIsVVU/maxresdefault_live.jpg
+springfield_ma|https://i.ytimg.com/vi/8U0M_mionOs/maxresdefault_live.jpg
