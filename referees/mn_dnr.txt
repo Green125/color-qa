@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 24
+Oct 25
 Sept
 01
 Sept
@@ -157,9 +157,9 @@ past peak	10/14/2026
 
 	Blue Mounds State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/21/2026
+past peak	
+past peak	10/25/2026
 
 	Buffalo River State Park
 Gallery | Park page	
@@ -493,9 +493,9 @@ past peak	10/14/2026
 
 	Split Rock Creek State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/21/2026
+past peak	
+past peak	10/25/2026
 
 	Split Rock Lighthouse State Park
 Gallery | Park page	
