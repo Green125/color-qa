@@ -39,7 +39,7 @@ Algoma
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/20/26 9:10 PM
+Updated: 10/25/26 8:02 PM
 
 90% Color
 Appleton (Fox Cities, Greater Appleton)
@@ -55,12 +55,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/14/26 9:35 AM
 
-100% Color
+Fading Peak
 Baraboo Area
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/21/26 9:18 AM
+Updated: 10/26/26 9:37 AM
 
 Fading Peak
 Barron County
@@ -69,19 +69,19 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/14/26 11:13 AM
 
-100% Color
+Fading Peak
 Bayfield
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/19/26 12:45 PM
+Updated: 10/26/26 12:35 PM
 
-85% Color
+95% Color
 Beloit
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/22/26 10:50 AM
+Updated: 10/26/26 12:24 PM
 
 Until Next Year
 Birchwood
@@ -167,19 +167,19 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/16/26 9:12 AM
 
-70% Color
+80% Color
 Delafield
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/20/26 9:00 AM
+Updated: 10/26/26 10:46 AM
 
-75% Color
+100% Color
 Dodge County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/21/26 8:57 AM
+Updated: 10/26/26 2:48 PM
 
 75% Color
 Dodgeville
@@ -202,26 +202,26 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/14/26 1:04 PM
 
-Fading Peak
+Until Next Year
 Eau Claire
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/23/26 3:23 PM
+Updated: 10/26/26 10:15 AM
 
-80% Color
+100% Color
 Elkhart Lake
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/20/26 8:29 AM
+Updated: 10/26/26 9:16 AM
 
-Fading Peak
+Until Next Year
 Florence County
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/20/26 9:17 AM
+Updated: 10/26/26 12:18 PM
 
 90% Color
 Fond du Lac
@@ -244,12 +244,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/24/26 2:01 PM
 
-45% Color
+95% Color
 Gays Mills
 
 Peak Color Forecast: 5th Week of October
 
-Updated: 10/15/26 11:36 AM
+Updated: 10/26/26 6:49 AM
 
 90% Color
 Green Bay
@@ -286,12 +286,12 @@ Peak Color Forecast: 1st Week of October
 
 Updated: 10/19/26 1:01 PM
 
-75% Color
+100% Color
 Hudson
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/23/26 3:14 PM
+Updated: 10/26/26 8:32 AM
 
 Fading Peak
 Hurley
@@ -342,26 +342,26 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/21/26 3:53 PM
 
-70% Color
+100% Color
 Kickapoo Valley Reserve
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/16/26 2:21 PM
+Updated: 10/26/26 6:53 AM
 
-95% Color
+Fading Peak
 La Crosse
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/23/26 9:14 AM
+Updated: 10/26/26 8:28 AM
 
-100% Color
+Fading Peak
 La Pointe, Madeline Island
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/19/26 12:45 PM
+Updated: 10/26/26 12:35 PM
 
 Fading Peak
 Ladysmith
@@ -377,12 +377,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/21/26 9:50 AM
 
-80% Color
+85% Color
 Lake Geneva
 
 Peak Color Forecast: 5th Week of October
 
-Updated: 10/23/26 9:57 AM
+Updated: 10/26/26 1:07 PM
 
 Until Next Year
 Land O' Lakes
@@ -412,12 +412,12 @@ Peak Color Forecast: 1st Week of October
 
 Updated: 10/9/26 1:01 PM
 
-100% Color
+Fading Peak
 Manitowoc
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/22/26 10:18 AM
+Updated: 10/26/26 9:23 AM
 
 Until Next Year
 Marinette County - Central
@@ -440,12 +440,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/21/26 10:11 AM
 
-30% Color
+95% Color
 Marquette County
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/9/26 2:25 PM
+Updated: 10/26/26 6:51 AM
 
 Fading Peak
 Marshfield
@@ -489,12 +489,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/21/26 11:50 AM
 
-55% Color
+75% Color
 Milwaukee
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/23/26 1:57 PM
+Updated: 10/26/26 10:43 AM
 
 75% Color
 Mineral Point
@@ -538,12 +538,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/21/26 8:13 AM
 
-50% Color
+70% Color
 Oak Creek
 
 Peak Color Forecast: 1st Week of November
 
-Updated: 10/21/26 12:11 PM
+Updated: 10/26/26 9:02 AM
 
 85% Color
 Oconomowoc
@@ -573,12 +573,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/22/26 7:36 AM
 
-75% Color
+85% Color
 Pepin County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/21/26 8:08 AM
+Updated: 10/26/26 8:45 AM
 
 Until Next Year
 Phelps Area
@@ -601,12 +601,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/25/26 2:46 PM
 
-75% Color
+85% Color
 Platteville
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/23/26 10:15 AM
+Updated: 10/26/26 9:00 AM
 
 75% Color
 Pleasant Prairie
@@ -627,7 +627,7 @@ Polk County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/25/26 8:18 AM
+Updated: 10/26/26 6:31 AM
 
 65% Color
 Port Washington
@@ -636,12 +636,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/23/26 11:19 AM
 
-85% Color
+100% Color
 Portage
 
-Peak Color Forecast: 3rd Week of October
+Peak Color Forecast: At Peak
 
-Updated: 10/21/26 8:03 AM
+Updated: 10/26/26 8:14 AM
 
 90% Color
 Pringle Nature Center at Bristol Woods County Park
@@ -664,12 +664,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/20/26 12:22 PM
 
-Fading Peak
+Until Next Year
 Rhinelander Area
 
 Peak Color Forecast: 1st Week of October
 
-Updated: 10/16/26 3:20 PM
+Updated: 10/26/26 8:51 AM
 
 95% Color
 Richland County
@@ -720,12 +720,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/15/26 8:34 AM
 
-85% Color
+90% Color
 Stevens Point Area
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/21/26 9:12 AM
+Updated: 10/26/26 9:56 AM
 
 95% Color
 Superior
@@ -755,12 +755,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/15/26 3:58 PM
 
-55% Color
+95% Color
 Trempealeau County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/16/26 2:27 PM
+Updated: 10/26/26 6:50 AM
 
 Fading Peak
 Vernon County
@@ -769,12 +769,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/21/26 10:24 AM
 
-75% Color
+100% Color
 Washington County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/22/26 10:07 AM
+Updated: 10/26/26 1:31 PM
 
 100% Color
 Waupaca
