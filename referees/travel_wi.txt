@@ -32,6 +32,22 @@ Check fall color conditions across Wisconsin. Fall color reports are updated by 
 Color Forecast by Week
 Best Colors First
 Remove 'Until Next Year' Reports
+Popular Destinations
+90% Color
+Fond du Lac
+
+Peak Color Forecast: 4th Week of October
+
+80% Color
+Green County
+
+Peak Color Forecast: 4th Week of October
+
+100% Color
+Lake Geneva
+
+Peak Color Forecast: 5th Week of October
+
 All Destinations 111
 Loading...
 75% Color
@@ -41,12 +57,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/25/26 8:02 PM
 
-90% Color
+100% Color
 Appleton (Fox Cities, Greater Appleton)
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/24/26 10:26 AM
+Updated: 10/27/26 10:14 AM
 
 100% Color
 Ashland
@@ -97,12 +113,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/21/26 9:41 AM
 
-Fading Peak
+Until Next Year
 Blue Hills - Weyerhaeuser & Bruce Area
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/20/26 11:17 AM
+Updated: 10/27/26 9:05 AM
 
 30% Color
 Blue Mounds
@@ -228,7 +244,7 @@ Fond du Lac
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/21/26 8:54 AM
+Updated: 10/27/26 1:24 PM
 
 95% Color
 Fort Atkinson
@@ -263,7 +279,7 @@ Green County
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/21/26 12:42 PM
+Updated: 10/27/26 1:22 PM
 
 90% Color
 Green Lake
@@ -272,12 +288,12 @@ Peak Color Forecast: 5th Week of October
 
 Updated: 10/21/26 8:47 AM
 
-Fading Peak
+Until Next Year
 Hawkins
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/20/26 11:17 AM
+Updated: 10/27/26 9:05 AM
 
 Until Next Year
 Hayward
@@ -307,19 +323,19 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/21/26 9:06 AM
 
-75% Color
+100% Color
 Janesville
 
 Peak Color Forecast: 5th Week of October
 
-Updated: 10/21/26 11:17 AM
+Updated: 10/27/26 8:45 AM
 
-75% Color
+90% Color
 Jefferson
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/22/26 11:31 AM
+Updated: 10/27/26 12:12 PM
 
 85% Color
 Johnson Creek
@@ -363,12 +379,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/26/26 12:35 PM
 
-Fading Peak
+Until Next Year
 Ladysmith
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/20/26 11:17 AM
+Updated: 10/27/26 9:05 AM
 
 70% Color
 Lafayette County
@@ -377,12 +393,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/21/26 9:50 AM
 
-85% Color
+100% Color
 Lake Geneva
 
 Peak Color Forecast: 5th Week of October
 
-Updated: 10/26/26 1:07 PM
+Updated: 10/27/26 1:23 PM
 
 Until Next Year
 Land O' Lakes
@@ -398,12 +414,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/21/26 8:10 AM
 
-75% Color
+85% Color
 Madison
 
 Peak Color Forecast: 1st Week of November
 
-Updated: 10/21/26 11:05 AM
+Updated: 10/27/26 3:46 PM
 
 100% Color
 Manitowish Waters
@@ -627,7 +643,7 @@ Polk County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/26/26 6:31 AM
+Updated: 10/27/26 9:01 AM
 
 65% Color
 Port Washington
@@ -657,12 +673,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/22/26 1:43 PM
 
-70% Color
+80% Color
 Retzer Nature Center
 
-Peak Color Forecast: 3rd Week of October
+Peak Color Forecast: 4th Week of October
 
-Updated: 10/20/26 12:22 PM
+Updated: 10/27/26 2:54 PM
 
 Until Next Year
 Rhinelander Area
@@ -727,12 +743,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/26/26 9:56 AM
 
-95% Color
+Fading Peak
 Superior
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/22/26 10:51 AM
+Updated: 10/27/26 9:55 AM
 
 Fading Peak
 Three Lakes Area
@@ -776,12 +792,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/26/26 1:31 PM
 
-100% Color
+Fading Peak
 Waupaca
 
-Peak Color Forecast: 4th Week of October
+Peak Color Forecast: 3rd Week of October
 
-Updated: 10/20/26 11:57 AM
+Updated: 10/27/26 12:27 PM
 
 Fading Peak
 Wausau

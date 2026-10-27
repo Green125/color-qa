@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 26
+Oct 27
 Sept
 01
 Sept
@@ -145,9 +145,9 @@ past peak	10/21/2026
 
 	Big Bog State Recreation Area
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/21/2026
+past peak	
+past peak	10/26/2026
 
 	Big Stone Lake State Park
 Gallery | Park page	
@@ -211,9 +211,9 @@ past peak	10/11/2026
 
 	Flandrau State Park
 Gallery | Park page	
-50-75%	
-75-100%	
-past peak	10/21/2026
+past peak	
+past peak	
+past peak	10/27/2026
 
 	Forestville/Mystery Cave State Park
 Gallery | Park page	
@@ -331,9 +331,9 @@ past peak	10/13/2026
 
 	Kilen Woods State Park
 Gallery | Park page	
-75-100%	
-25-50%	
-25-50%	10/22/2026
+past peak	
+past peak	
+past peak	10/27/2026
 
 	La Salle Lake State Recreation Area
 Gallery | Park page	
@@ -345,7 +345,7 @@ past peak	10/21/2026
 Gallery | Park page	
 past peak	
 75-100%	
-past peak	10/20/2026
+past peak	10/27/2026
 
 	Lake Bemidji State Park
 Gallery | Park page	
@@ -493,9 +493,9 @@ past peak	10/14/2026
 
 	Split Rock Creek State Park
 Gallery | Park page	
+75-100%	
 past peak	
-past peak	
-past peak	10/25/2026
+past peak	10/27/2026
 
 	Split Rock Lighthouse State Park
 Gallery | Park page	
