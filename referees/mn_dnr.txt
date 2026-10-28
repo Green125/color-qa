@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 27
+Oct 28
 Sept
 01
 Sept
@@ -123,7 +123,7 @@ Updated
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/22/2026
+past peak	10/28/2026
 
 	Banning State Park
 Gallery | Park page	
@@ -139,9 +139,9 @@ past peak	10/14/2026
 
 	Beaver Creek Valley State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/21/2026
+past peak	
+past peak	10/28/2026
 
 	Big Bog State Recreation Area
 Gallery | Park page	
@@ -177,7 +177,7 @@ past peak	10/21/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/21/2026
+past peak	10/28/2026
 
 	Cascade River State Park
 Gallery | Park page	
@@ -229,21 +229,21 @@ past peak	10/20/2026
 
 	Fort Snelling State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/23/2026
+past peak	
+past peak	10/28/2026
 
 	Franz Jevne State Park
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/20/2026
+past peak	10/28/2026
 
 	Frontenac State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/20/2026
+past peak	
+past peak	10/28/2026
 
 	George H. Crosby Manitou State Park
 Gallery | Park page	
@@ -277,9 +277,9 @@ past peak	10/14/2026
 
 	Great River Bluffs State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/21/2026
+past peak	
+past peak	10/28/2026
 
 	Greenleaf Lake State Recreation Area
 Gallery | Park page	
@@ -309,7 +309,7 @@ past peak	10/15/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/21/2026
+past peak	10/28/2026
 
 	Jay Cooke State Park
 Gallery | Park page	
@@ -319,9 +319,9 @@ past peak	10/16/2026
 
 	John A. Latsch State Park
 Gallery | Park page	
-75-100%	
-75-100%	
-past peak	10/21/2026
+past peak	
+past peak	
+past peak	10/28/2026
 
 	Judge C.R. Magney State Park
 Gallery | Park page	
@@ -339,7 +339,7 @@ past peak	10/27/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/21/2026
+past peak	10/28/2026
 
 	Lac qui Parle State Park
 Gallery | Park page	
@@ -375,13 +375,13 @@ past peak	10/22/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/26/2026
+past peak	10/28/2026
 
 	Lake Shetek State Park
 Gallery | Park page	
-75-100%	
-75-100%	
-past peak	10/20/2026
+past peak	
+past peak	
+past peak	10/28/2026
 
 	Lake Vermilion-Soudan Underground Mine State Park
 Gallery | Park page	
@@ -428,8 +428,8 @@ past peak	10/14/2026
 	Moose Lake State Park
 Gallery | Park page	
 past peak	
-75-100%	
-past peak	10/20/2026
+past peak	
+past peak	10/28/2026
 
 	Myre-Big Island State Park
 Gallery | Park page	
@@ -513,7 +513,7 @@ past peak	10/14/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/14/2026
+past peak	10/28/2026
 
 	Tettegouche State Park
 Gallery | Park page	
@@ -525,7 +525,7 @@ past peak	10/12/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/21/2026
+past peak	10/28/2026
 
 	Wild River State Park
 Gallery | Park page	
@@ -543,7 +543,7 @@ past peak	10/16/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/20/2026
+past peak	10/28/2026
 
  
 Questions?
