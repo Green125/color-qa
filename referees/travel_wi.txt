@@ -85,12 +85,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/14/26 11:13 AM
 
-Fading Peak
+Until Next Year
 Bayfield
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/26/26 12:35 PM
+Updated: 10/30/26 12:34 PM
 
 100% Color
 Beloit
@@ -204,12 +204,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/21/26 9:53 AM
 
-Fading Peak
+Until Next Year
 Door County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/22/26 12:40 PM
+Updated: 10/30/26 8:54 AM
 
 Fading Peak
 Eagle River
@@ -372,12 +372,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/26/26 8:28 AM
 
-Fading Peak
+Until Next Year
 La Pointe, Madeline Island
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/26/26 12:35 PM
+Updated: 10/30/26 12:34 PM
 
 Until Next Year
 Ladysmith
@@ -498,19 +498,19 @@ Peak Color Forecast: 1st Week of October
 
 Updated: 10/28/26 10:17 AM
 
-85% Color
+90% Color
 Middleton
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/28/26 9:55 AM
+Updated: 10/30/26 2:06 PM
 
-75% Color
+100% Color
 Milwaukee
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/26/26 10:43 AM
+Updated: 10/30/26 1:27 PM
 
 75% Color
 Mineral Point
@@ -561,12 +561,12 @@ Peak Color Forecast: 1st Week of November
 
 Updated: 10/26/26 9:02 AM
 
-85% Color
+100% Color
 Oconomowoc
 
 Peak Color Forecast: 5th Week of October
 
-Updated: 10/22/26 2:00 PM
+Updated: 10/30/26 9:56 AM
 
 Fading Peak
 Oconto County
@@ -631,12 +631,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/28/26 2:17 PM
 
-80% Color
+100% Color
 Plymouth
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/23/26 10:10 AM
+Updated: 10/30/26 2:59 PM
 
 Fading Peak
 Polk County

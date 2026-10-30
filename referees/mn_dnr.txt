@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 29
+Oct 30
 Sept
 01
 Sept
@@ -223,9 +223,9 @@ past peak	10/21/2026
 
 	Fort Ridgely State Park
 Gallery | Park page	
-75-100%	
-75-100%	
-past peak	10/20/2026
+past peak	
+past peak	
+past peak	10/30/2026
 
 	Fort Snelling State Park
 Gallery | Park page	
