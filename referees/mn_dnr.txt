@@ -51,7 +51,7 @@ off
 Use the slider to progress through past and future dates.
 
 Loading map...
-Oct 30
+Oct 31
 Sept
 01
 Sept
@@ -152,8 +152,8 @@ past peak	10/26/2026
 	Big Stone Lake State Park
 Gallery | Park page	
 past peak	
-75-100%	
-past peak	10/14/2026
+past peak	
+past peak	10/31/2026
 
 	Blue Mounds State Park
 Gallery | Park page	
