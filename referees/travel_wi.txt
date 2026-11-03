@@ -12,7 +12,7 @@ Food & Drink
 Stay
  
 Events
-WI Fall Color
+WI Trail Report
 WISCONSIN FALL COLOR REPORT
 Fall Color
 Trail Report
@@ -33,10 +33,10 @@ Color Forecast by Week
 Best Colors First
 Remove 'Until Next Year' Reports
 Popular Destinations
-90% Color
+95% Color
 Fond du Lac
 
-Peak Color Forecast: 4th Week of October
+Peak Color Forecast: 1st Week of November
 
 100% Color
 Green County
@@ -71,12 +71,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/28/26 6:12 PM
 
-Fading Peak
+Until Next Year
 Baraboo Area
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/26/26 9:37 AM
+Updated: 11/2/26 9:24 AM
 
 Fading Peak
 Barron County
@@ -118,7 +118,7 @@ Blue Hills - Weyerhaeuser & Bruce Area
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/27/26 9:05 AM
+Updated: 11/2/26 10:22 AM
 
 30% Color
 Blue Mounds
@@ -225,12 +225,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/26/26 10:15 AM
 
-100% Color
+Fading Peak
 Elkhart Lake
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/26/26 9:16 AM
+Updated: 11/2/26 8:32 AM
 
 Until Next Year
 Florence County
@@ -239,12 +239,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/26/26 12:18 PM
 
-90% Color
+95% Color
 Fond du Lac
 
-Peak Color Forecast: 4th Week of October
+Peak Color Forecast: 1st Week of November
 
-Updated: 10/27/26 1:24 PM
+Updated: 11/2/26 1:27 PM
 
 Fading Peak
 Fort Atkinson
@@ -293,7 +293,7 @@ Hawkins
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/27/26 9:05 AM
+Updated: 11/2/26 10:22 AM
 
 Until Next Year
 Hayward
@@ -314,7 +314,7 @@ Hurley
 
 Peak Color Forecast: 1st Week of October
 
-Updated: 10/28/26 10:40 AM
+Updated: 11/2/26 10:06 AM
 
 Fading Peak
 Iron River
@@ -330,12 +330,12 @@ Peak Color Forecast: 5th Week of October
 
 Updated: 10/27/26 8:45 AM
 
-90% Color
+100% Color
 Jefferson
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/27/26 12:12 PM
+Updated: 11/2/26 9:11 AM
 
 Fading Peak
 Johnson Creek
@@ -365,12 +365,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/26/26 6:53 AM
 
-Fading Peak
+Until Next Year
 La Crosse
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/26/26 8:28 AM
+Updated: 11/2/26 8:28 AM
 
 Until Next Year
 La Pointe, Madeline Island
@@ -384,7 +384,7 @@ Ladysmith
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/27/26 9:05 AM
+Updated: 11/2/26 10:23 AM
 
 100% Color
 Lafayette County
@@ -414,12 +414,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/29/26 9:14 AM
 
-95% Color
+100% Color
 Madison
 
 Peak Color Forecast: 1st Week of November
 
-Updated: 10/30/26 4:48 PM
+Updated: 11/2/26 4:54 PM
 
 100% Color
 Manitowish Waters
@@ -589,12 +589,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/22/26 7:36 AM
 
-85% Color
+Fading Peak
 Pepin County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/26/26 8:45 AM
+Updated: 11/2/26 3:28 PM
 
 Until Next Year
 Phelps Area
@@ -736,12 +736,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/15/26 8:34 AM
 
-90% Color
+Fading Peak
 Stevens Point Area
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/26/26 9:56 AM
+Updated: 11/2/26 10:55 AM
 
 Fading Peak
 Superior
