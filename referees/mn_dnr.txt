@@ -219,7 +219,7 @@ past peak	10/27/2026
 Gallery | Park page	
 past peak	
 past peak	
-past peak	10/21/2026
+past peak	11/03/2026
 
 	Fort Ridgely State Park
 Gallery | Park page	
@@ -344,8 +344,8 @@ past peak	10/28/2026
 	Lac qui Parle State Park
 Gallery | Park page	
 past peak	
-75-100%	
-past peak	10/27/2026
+past peak	
+past peak	11/03/2026
 
 	Lake Bemidji State Park
 Gallery | Park page	
@@ -398,8 +398,8 @@ past peak	10/16/2026
 	McCarthy Beach State Park
 Gallery | Park page	
 past peak	
-75-100%	
-past peak	10/22/2026
+past peak	
+past peak	11/03/2026
 
 	Mille Lacs Kathio State Park
 Gallery | Park page	
@@ -410,8 +410,8 @@ past peak	10/14/2026
 	Minneopa State Park
 Gallery | Park page	
 past peak	
-75-100%	
-past peak	10/26/2026
+past peak	
+past peak	11/03/2026
 
 	Minnesota Valley State Recreation Area
 Gallery | Park page	
@@ -493,9 +493,9 @@ past peak	10/14/2026
 
 	Split Rock Creek State Park
 Gallery | Park page	
-75-100%	
 past peak	
-past peak	10/27/2026
+past peak	
+past peak	11/03/2026
 
 	Split Rock Lighthouse State Park
 Gallery | Park page	
