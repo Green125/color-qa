@@ -38,7 +38,7 @@ Fond du Lac
 
 Peak Color Forecast: 1st Week of November
 
-100% Color
+Fading Peak
 Green County
 
 Peak Color Forecast: 4th Week of October
@@ -120,12 +120,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 11/2/26 10:22 AM
 
-30% Color
+100% Color
 Blue Mounds
 
-Peak Color Forecast: 4th Week of October
+Peak Color Forecast: 1st Week of November
 
-Updated: 10/22/26 11:28 AM
+Updated: 11/4/26 10:38 AM
 
 Fading Peak
 Boulder Junction
@@ -274,12 +274,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/28/26 2:04 PM
 
-100% Color
+Fading Peak
 Green County
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/28/26 2:52 PM
+Updated: 11/4/26 8:26 AM
 
 95% Color
 Green Lake
@@ -316,19 +316,19 @@ Peak Color Forecast: 1st Week of October
 
 Updated: 11/2/26 10:06 AM
 
-Fading Peak
+Until Next Year
 Iron River
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/29/26 9:19 AM
+Updated: 11/4/26 2:02 PM
 
-100% Color
+Fading Peak
 Janesville
 
 Peak Color Forecast: 5th Week of October
 
-Updated: 10/27/26 8:45 AM
+Updated: 11/4/26 9:14 AM
 
 100% Color
 Jefferson
@@ -477,12 +477,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/13/26 1:57 PM
 
-Fading Peak
+Until Next Year
 Menominee County
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/28/26 2:33 PM
+Updated: 11/4/26 2:43 PM
 
 Fading Peak
 Menomonie Area
@@ -505,12 +505,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/30/26 2:06 PM
 
-100% Color
+Fading Peak
 Milwaukee
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/30/26 1:27 PM
+Updated: 11/4/26 9:41 AM
 
 75% Color
 Mineral Point
@@ -554,12 +554,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/21/26 8:13 AM
 
-70% Color
+100% Color
 Oak Creek
 
 Peak Color Forecast: 1st Week of November
 
-Updated: 10/26/26 9:02 AM
+Updated: 11/4/26 12:14 PM
 
 100% Color
 Oconomowoc
@@ -652,12 +652,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 11/3/26 12:05 PM
 
-100% Color
+Until Next Year
 Portage
 
-Peak Color Forecast: At Peak
+Peak Color Forecast: Fading Peak
 
-Updated: 10/26/26 8:14 AM
+Updated: 11/4/26 2:43 PM
 
 100% Color
 Pringle Nature Center at Bristol Woods County Park
@@ -715,12 +715,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/21/26 10:27 AM
 
-Fading Peak
+Until Next Year
 Shawano
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/28/26 2:33 PM
+Updated: 11/4/26 2:44 PM
 
 Until Next Year
 Spooner & Shell Lake
@@ -825,7 +825,7 @@ Wisconsin Rapids Area
 
 Peak Color Forecast: 2nd Week of October
 
-Updated: 10/29/26 11:16 AM
+Updated: 11/4/26 4:04 PM
 
 0%
 25%
