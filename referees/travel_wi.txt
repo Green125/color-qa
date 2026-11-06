@@ -314,7 +314,7 @@ Hurley
 
 Peak Color Forecast: 1st Week of October
 
-Updated: 11/2/26 10:06 AM
+Updated: 11/6/26 12:43 PM
 
 Until Next Year
 Iron River
@@ -330,12 +330,12 @@ Peak Color Forecast: 5th Week of October
 
 Updated: 11/4/26 9:14 AM
 
-100% Color
+Fading Peak
 Jefferson
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 11/2/26 9:11 AM
+Updated: 11/6/26 12:00 PM
 
 Fading Peak
 Johnson Creek
@@ -414,12 +414,12 @@ Peak Color Forecast: 2nd Week of October
 
 Updated: 10/29/26 9:14 AM
 
-100% Color
+Fading Peak
 Madison
 
 Peak Color Forecast: 1st Week of November
 
-Updated: 11/2/26 4:54 PM
+Updated: 11/5/26 5:39 PM
 
 100% Color
 Manitowish Waters
@@ -540,12 +540,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/28/26 1:58 PM
 
-90% Color
+Fading Peak
 Mukwonago
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 10/29/26 12:07 PM
+Updated: 11/6/26 9:03 AM
 
 75% Color
 New Richmond
@@ -687,12 +687,12 @@ Peak Color Forecast: 1st Week of October
 
 Updated: 10/26/26 8:51 AM
 
-100% Color
+Fading Peak
 Richland County
 
 Peak Color Forecast: 5th Week of October
 
-Updated: 10/29/26 12:35 PM
+Updated: 11/6/26 1:51 PM
 
 Fading Peak
 Rome
