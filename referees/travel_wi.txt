@@ -43,7 +43,7 @@ Green County
 
 Peak Color Forecast: 4th Week of October
 
-Fading Peak
+Until Next Year
 Lake Geneva
 
 Peak Color Forecast: 5th Week of October
@@ -335,7 +335,7 @@ Jefferson
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 11/6/26 12:00 PM
+Updated: 11/13/26 9:22 AM
 
 Fading Peak
 Johnson Creek
@@ -393,12 +393,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 11/12/26 8:52 AM
 
-Fading Peak
+Until Next Year
 Lake Geneva
 
 Peak Color Forecast: 5th Week of October
 
-Updated: 11/3/26 10:19 AM
+Updated: 11/13/26 7:19 AM
 
 Until Next Year
 Land O' Lakes
@@ -638,12 +638,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/30/26 2:59 PM
 
-Fading Peak
+Until Next Year
 Polk County
 
 Peak Color Forecast: 3rd Week of October
 
-Updated: 10/27/26 9:01 AM
+Updated: 11/13/26 1:00 PM
 
 95% Color
 Port Washington
