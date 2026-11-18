@@ -155,12 +155,12 @@ Peak Color Forecast: 3rd Week of October
 
 Updated: 10/29/26 2:41 PM
 
-75% Color
+Until Next Year
 Cassville
 
-Peak Color Forecast: 4th Week of October
+Peak Color Forecast:
 
-Updated: 10/22/26 2:42 PM
+Updated: 11/18/26 11:41 AM
 
 100% Color
 Chippewa County
@@ -302,12 +302,12 @@ Peak Color Forecast: 1st Week of October
 
 Updated: 10/19/26 1:01 PM
 
-100% Color
+Until Next Year
 Hudson
 
 Peak Color Forecast: 4th Week of October
 
-Updated: 11/3/26 3:43 PM
+Updated: 11/18/26 10:05 AM
 
 Until Next Year
 Hurley
@@ -617,12 +617,12 @@ Peak Color Forecast: 4th Week of October
 
 Updated: 10/25/26 2:46 PM
 
-100% Color
+Fading Peak
 Platteville
 
-Peak Color Forecast: 4th Week of October
+Peak Color Forecast: At Peak
 
-Updated: 10/29/26 9:35 AM
+Updated: 11/18/26 10:15 AM
 
 100% Color
 Pleasant Prairie
